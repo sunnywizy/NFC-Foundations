@@ -1,0 +1,1 @@
+The nlc-foundations has to deals with a group of people who comes together to achieve a particular goals.
