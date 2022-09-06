@@ -1,3 +1,3 @@
-#!/bin/bash
-Hello.i
+#!/usr/bin/bash
+gcc -E Hello.c -o Hello.i
 
