@@ -4,7 +4,7 @@ int main ()
 {
     // Learning how to create advance calculator
 
-    int num1;
+    /*int num1;
     int num2;
     int op;
 
@@ -30,4 +30,12 @@ int main ()
     }else {
         printf("Invalid Operator\n");
     }
+     const int add =50;
+    printf("%d\n", add);
+    */
+   int x = 5;
+   x += 15;
+   printf("%d\n", x);
+
+    return (0);
 }
